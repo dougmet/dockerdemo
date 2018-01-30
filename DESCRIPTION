@@ -1,0 +1,10 @@
+Package: dockerdemo
+Title: Quickly Setup Some Docker Services
+Version: 0.0.0.9000
+Authors@R: person("Doug", "Ashton", email = "douglas.j.ashton@gmail.com", role = c("aut", "cre"))
+Description: Setup some common services for demo purposes in R. For example, 
+  start a "MySQL" database and return a connection.
+Depends: R (>= 3.4.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
